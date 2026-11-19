@@ -30,4 +30,4 @@ LinkedIn: [www.linkedin.com/in/ibrahim-adebayo-118613449](www.linkedin.com/in/ib
 
 ## 📌 Project Information
 
-**Program Name:** Cybersecurity at CodeAlpha | **Task 02** Phishing Online Module| **Repository:** GitHub
+**Program Name:** Cybersecurity at CodeAlpha | **Task 02** Phishing Online Module | **Repository:** GitHub
